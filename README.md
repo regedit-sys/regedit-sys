@@ -8,6 +8,9 @@
   - Bluesky DMs: https://bsky.app/profile/sp00b.top (email me once follow me on bsky)
 - 😄 Pronouns: they/them/he/him (he/him preferred)
 - ⚡ Fun fact: I've spent over 90 dollars on roblox, across 2 accounts!!
+- am addicted to video games
+- panfluid (genderfluid pansexual)
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1256346054711050385)](https://discord.com/users/1256346054711050385)
 
