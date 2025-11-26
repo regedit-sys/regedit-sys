@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @regedit-sys
-- 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me:
-  - @1xb0 on discord
-- 😄 Pronouns: they/them/he/him (he/him preferred)
-- ⚡ Fun fact: I've spent over 90 dollars on roblox, across 2 accounts!!
-- am addicted to video games
-- panfluid (genderfluid pansexual)
+ANY/ALL
+
+PANSEXUAL LOSER
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1256346054711050385)](https://discord.com/users/1256346054711050385)
