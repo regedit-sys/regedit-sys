@@ -1,4 +1,20 @@
-ANY/ALL BISEXUAL | very much antifa
+ANY/ALL BISEXUAL
+
+![](https://raw.githubusercontent.com/regedit-sys/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/regedit-sys/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+---
+
+I mainly work with these tools/languages:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,python,linux,twitter,robloxstudio,supabase,pr,ps,)](https://skillicons.dev)
+
+
+Currently learning:
+
+[![My (future) Skills](https://skillicons.dev/icons?i=mongodb,linux,c,java,cassandra,vercel,tauri)](https://skillicons.dev)
+
+fuck typescript i hate typescript i hate it keep types out of my js we had something for types it was called jslint or whatever if you want types go use that please
 
 ---
 
