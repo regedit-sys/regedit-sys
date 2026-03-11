@@ -2,6 +2,9 @@ ANY/ALL BISEXUAL
 
 ![](https://raw.githubusercontent.com/regedit-sys/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/regedit-sys/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![roadmap.sh](https://roadmap.sh/card/wide/69b152cd47536ddad1e7a232?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
+
+For serious projects on my Codeberg, [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
 ---
 
