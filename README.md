@@ -17,6 +17,10 @@ Currently learning:
 
 [![My (future) Skills](https://skillicons.dev/icons?i=mongodb,linux,c,java,cassandra,vercel,tauri)](https://skillicons.dev)
 
+Languages I **HATE**
+
+[![My hatred towards these is insane](https://skillicons.dev/icons?i=rust,rust,rust,rust,rust,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,)](https://skillicons.dev)
+
 fuck typescript i hate typescript i hate it keep types out of my js we had something for types it was called jslint or whatever if you want types go use that please
 
 ---
